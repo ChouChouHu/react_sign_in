@@ -1,3 +1,6 @@
+Develope Environment:  
+node v15.9.0  
+npm 7.5.3  
 
 使用 `yarn start` 掛載程式在本地的 port 即可看見結果。  
 每一支程式都被封裝成一個 Functional Component，  
