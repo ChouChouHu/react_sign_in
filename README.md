@@ -1,6 +1,6 @@
 Develope Environment:  
 - node v15.9.0  
-- npm 7.5.3  
+- yarn 1.22.10    
 
  ```
  yarn start
