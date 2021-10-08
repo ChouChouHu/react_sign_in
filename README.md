@@ -1,7 +1,8 @@
 
-每一支程式都封裝成一個 Functional Component，
+使用 `yarn start` 掛載程式在本地的 port 即可看見結果。
+每一支程式都被封裝成一個 Functional Component，
 五個 Components 都放在 App.js，
-打開首頁就能看見個別的操作示範或執行結果，
+打開首頁能看見個別的操作示範或執行結果，
 
 ### 實作 Fibonacci number (費式數列)
 為爭取更好一點的效能，不使用遞迴而使用簡單的 for loop。
